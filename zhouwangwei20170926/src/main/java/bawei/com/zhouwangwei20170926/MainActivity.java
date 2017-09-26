@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements XListView.IXListV
         xListView.setPullLoadEnable(true);
         xListView.setXListViewListener(this);
         getData(path);
-
+//asdddddddddddadsasdds撒大大大多多多多多多多多多多
     }
 
     /**
