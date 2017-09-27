@@ -5,7 +5,7 @@ import java.io.InputStream;
 
 /**
  * date:2017/7/10
- * author:易宸锋(dell)
+ * author:周王伟
  * function:
  */
 
