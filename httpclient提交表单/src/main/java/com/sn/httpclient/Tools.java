@@ -10,7 +10,7 @@ import java.io.InputStream;
  */
 
 public class Tools {
-
+    //工具
     //字节流转成字符流
     public static String getTextFromStream(InputStream inputStream) {
 
